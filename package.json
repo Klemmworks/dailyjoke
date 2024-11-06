@@ -1,0 +1,21 @@
+{
+  "name": "@klemmworks/dailyjoke",
+  "version": "0.1.0",
+  "description": "An npm package that returns a new joke every day",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "to-be-determined"
+  },
+  "keywords": [
+    "daily",
+    "joke",
+    "jokes",
+    "generator"
+  ],
+  "author": "Duncan Klemm",
+  "license": "ISC"
+}
