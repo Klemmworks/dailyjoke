@@ -1,22 +1,22 @@
 # npm package - @klemmworks/dailyjoke
 
-The (super absolutely definitely) one-and-only npm package that exposes a function to return a different joke, every single day.
+The one-and-only npm package that returns a different joke, every single day.
 
 ## Installation
 `npm install --save @klemmworks/dailyjoke`
 
 ## Use
-`const dailyJoke = require('@klemmworks/dailyjoke')` 
+`const dailyJoke = require('@klemmworks/dailyjoke')`  
+`import dailyJoke from '@klemmworks/dailyjoke'` 
  
 `console.log(dailyJoke())`
 
-## Development Roadmap 
-### 0.1.0 - (current)
+## Development Roadmap
+### 0.1.0
  - published to npm
- - default export = dailyjokes
 
 ### 1.0.0
- - \>=366 joke options
+ - 366 joke options
  - date-based generation 
    - see [NationalToday](https://nationaltoday.com/today/)
 
