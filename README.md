@@ -1,6 +1,6 @@
 # npm package - @klemmworks/dailyjoke
 
-The one-and-only npm package that returns a different joke, every single day.
+The one-and-only npm package that returns one or more jokes, every single day.
 
 ## Installation
 `npm install --save @klemmworks/dailyjoke`
