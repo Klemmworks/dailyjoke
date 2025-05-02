@@ -13,6 +13,7 @@ The one-and-only npm package that returns a different joke, every single day.
 
 ## Roadmap
 ### 1.0.0
+ - published to npm
  - 366 joke options (leap day)
  - date-based generation 
    - see [NationalToday](https://nationaltoday.com/today/)
