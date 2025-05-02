@@ -11,12 +11,9 @@ The one-and-only npm package that returns a different joke, every single day.
  
 `console.log(dailyJoke())`
 
-## Development Roadmap
-### 0.1.0
- - published to npm
-
+## Roadmap
 ### 1.0.0
- - 366 joke options
+ - 366 joke options (leap day)
  - date-based generation 
    - see [NationalToday](https://nationaltoday.com/today/)
 
