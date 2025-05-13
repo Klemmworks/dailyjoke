@@ -28,10 +28,10 @@ const year = [
 
 function dailyJoke (returnFullList = false) {
     const today = new Date();
-    const monthNum = today.getMonth();
-    const dayNum = today.getDate();
-    const jokesOfTheMonth = year.at(monthNum);
-    const jokesOfTheDay = jokesOfTheMonth.at(dayNum).jokes;
+    const monthIndex = today.getMonth();
+    const dayIndex = today.getDate() - 1;
+    const jokesOfTheMonth = year.at(monthIndex);
+    const jokesOfTheDay = jokesOfTheMonth.at(dayIndex).jokes;
     if (returnFullList) return jokesOfTheDay;
     const randomDecimal = Math.random();
     const randomIndex = Math.floor(randomDecimal * 100) % jokesOfTheDay.length;
