@@ -8,3 +8,7 @@ test('Fetched joke has expected properties', () => {
   expect(dailyJoke()).toHaveProperty('for');
   expect(dailyJoke()).toHaveProperty('punchline');
 });
+
+test("fetches an array", () => {
+  expect(dailyJoke(true)).toHaveProperty("length");
+})
