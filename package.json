@@ -1,6 +1,6 @@
 {
   "name": "@klemmworks/dailyjoke",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "The one-and-only npm package that returns one or more topical holiday jokes, every single day.",
   "keywords": [
     "daily",
