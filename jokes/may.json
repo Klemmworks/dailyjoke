@@ -3,9 +3,24 @@
         "day": 1,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "May Day",
+                "setup": "What do you get when you mix May Day with a piñata?",
+                "punchline": "A spring fling with a swing!"
+            },
+            {
+                "for": "International Doodle Dog Day",
+                "setup": "what's a doodle dog's favorite type of art?",
+                "punchline": "Casually penciled paw-traits, of course!"
+            },
+            {
+                "for": "World Password Day",
+                "setup": "What's a hackers favrotie season?",
+                "punchline": "Phishing Season!"
+            },
+            {
+                "for": "World Password Day",
+                "setup": "Why is the password 'incorrect' so popular?",
+                "punchline": "Because everytime you forget it, the login says 'your password is incorrect!'"
             }
         ]
     },
@@ -13,9 +28,24 @@
         "day": 2,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Brothers and Sisters Day",
+                "setup": "What do you call a sibling who tells great jokes?",
+                "punchline": "Your *pun-derful* brother or sister!"
+            },
+            {
+                "for": "Baby Day",
+                "setup": "Why do newborn babies scream so much?",
+                "punchline": "Their *womb service* got cut off!"
+            },
+            {
+                "for": "National Tuba Day",
+                "setup": "Why did the tuba player get locked out of the band room?",
+                "punchline": "Because they couldn't find the right key!"
+            },
+            {
+                "for": "World Tuna Day",
+                "setup": "What's the difference between a piano and a tuna?",
+                "punchline": "You can tune a piano but you can't tun(e-)a fish!"
             }
         ]
     },
@@ -23,9 +53,14 @@
         "day": 3,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "Free Comic Book Day",
+                "setup": "What's a comic book hero's favorite type of exercise?",
+                "punchline": "Super-sets!"
+            },
+             {
+                "for": "Free Comic Book Day",
+                "setup": "Why don't comic books ever get bored?",
+                "punchline": "Because they're always full of action!"
             }
         ]
     },
@@ -103,9 +138,14 @@
         "day": 11,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "Mother's Day",
+                "setup": "Why did the Mother's Day gift arrive the day after Mother's Day?",
+                "punchline": "It was choco-LATE!"
+            },
+            {
+                "for": "National Eat What You Want Day",
+                "setup": "I'm on a sea-food diet.",
+                "punchline": "I see food, and then I eat it!"
             }
         ]
     },
@@ -113,9 +153,14 @@
         "day": 12,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "International Nurses Day",
+                "setup": "What's the difference between an oral thermometer and a rectal thermometer?",
+                "punchline": "The taste!"
+            },
+            {
+                "for": "National Odometer Day",
+                "setup": "I just found out the famous actor Miles Teller uses a stage name.",
+                "punchline": "Turns out, his original name is Odometer."
             }
         ]
     },
@@ -123,9 +168,14 @@
         "day": 13,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "International Hummus Day",
+                "setup": "How do you know if someone loves hummus?",
+                "punchline": "They'll *spread* the word!"
+            },
+            {
+                "for": "National Crouton Day",
+                "setup": "Why did the crouton break up with the salad?",
+                "punchline": "It felt like it was just getting tossed around!"
             }
         ]
     },
@@ -133,9 +183,9 @@
         "day": 14,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Buttermilk Biscuit Day",
+                "setup": "Why did the buttermilk biscuit get promoted?",
+                "punchline": "Because it *rose* to the occasion!"
             }
         ]
     },
@@ -143,9 +193,14 @@
         "day": 15,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Chocolate Chip Day",
+                "setup": "Why did the chocolate chip go to school?",
+                "punchline": "It wanted to be a smart cookie!"
+            },
+            {
+                "for": "International Family Day",
+                "setup": "What's a family's favorite type of comedy?",
+                "punchline": "*Relative* humor!"
             }
         ]
     },

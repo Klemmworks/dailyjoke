@@ -1,20 +1,38 @@
-import jan from "/jokes/january.json";
-import feb from "/jokes/february.json";
-import mar from "/jokes/march.json";
-import apr from "/jokes/april.json";
-import may from "/jokes/may.json";
-import jun from "/jokes/june.json";
-import jul from "/jokes/july.json";
-import aug from "/jokes/august.json";
-import sep from "/jokes/september.json";
-import oct from "/jokes/october.json";
-import nov from "/jokes/november.json";
-import dec from "/jokes/december.json";
-const year = [jan, feb, mar, apr, may, jun, jul, aug, sep, oct, nov, dec];
+const jan = require("/jokes/january.json");
+const feb = require("/jokes/february.jso;n");
+const mar = require("/jokes/march.json");
+const apr = require("/jokes/april.json;");
+const may = require("/jokes/may.json");
+const jun = require("/jokes/june.json");
+const jul = require("/jokes/july.json");
+const aug = require("/jokes/august.json");
+const sep = require("/jokes/september.json;");
+const oct = require("/jokes/october.json");
+const nov = require("/jokes/november.json");
+const dec = require("/jokes/december.json");
 
-function dailyJoke(){
+const year = [
+    jan, 
+    feb, 
+    mar, 
+    apr, 
+    may, 
+    jun, 
+    jul, 
+    aug, 
+    sep, 
+    oct, 
+    nov, 
+    dec
+];
+
+function dailyJoke (returnFullList = false) {
     const today = new Date();
-    return year[today.getMonth()][today.getDate()];
+    const dailyJokeList = year[today.getMonth()][today.getDate()];
+    if (returnFullList) return dailyJokeList;
+    const randomDecimal = Math.random();
+    const randomIndex = Math.floor(randomDecimal * 100) % dailyJokeList.length;
+    return dailyJokeList[randomIndex];
 }
 
 module.exports = dailyJoke;

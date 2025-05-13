@@ -1,21 +1,25 @@
 {
   "name": "@klemmworks/dailyjoke",
-  "version": "0.1.0",
-  "description": "An npm package that returns a new joke every day",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "to-be-determined"
-  },
+  "version": "0.2.1",
+  "description": "The one-and-only npm package that returns one or more topical holiday jokes, every single day.",
   "keywords": [
     "daily",
     "joke",
     "jokes",
     "generator"
   ],
+  "homepage": "https://github.com/Klemmworks/dailyjoke",
+  "bugs": {
+    "url": "https://github.com/Klemmworks/dailyjoke/issues"
+  },
+  "license": "ISC",
   "author": "Duncan Klemm",
-  "license": "ISC"
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Klemmworks/dailyjoke"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
