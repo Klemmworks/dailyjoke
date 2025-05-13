@@ -1,4 +1,4 @@
-# npm package - @klemmworks/dailyjoke
+# @klemmworks/dailyjoke
 
 The one-and-only npm package that returns one or more topical holiday jokes, every single day.
 - see [NationalToday](https://nationaltoday.com/today/)
