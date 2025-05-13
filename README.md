@@ -20,10 +20,9 @@ function dailyJoke (
   returnFullList = false
 ) : Joke | Array<Joke> {}
 ```
-
-### Joke Type
+### Type Definition
 ```
-{
+type Joke {
   for: string //Name of Special Day the joke relates to
   setup: string //Optional, since one-liners exist. Blank string if so.
   punchline: string
