@@ -68,9 +68,19 @@
         "day": 4,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Lemonade Day",
+                "setup": "Why did the lemonade go to school?",
+                "punchline": "To get a little *squeeze* of knowledge!"
+            },
+            {
+                "for": "Star Wars Day",
+                "setup": "What is a jedi's favorite dessert?",
+                "punchline": "Obi-Wan Cannoli!"
+            },
+            {
+                "for": "Star Wars Day",
+                "setup": "Who is Darth Vader's favorite band?",
+                "punchline": "Pink Floyd of course. He's all about the Dark Side!"
             }
         ]
     },
@@ -78,9 +88,19 @@
         "day": 5,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Hoagie Day",
+                "setup": "What do you call a grilled hoagie that tells jokes?",
+                "punchline": "A pun-ini!"
+            },
+            {
+                "for": "Great Lakes Awareness Day",
+                "setup": "What do the Great Lakes do when they're feeling down?",
+                "punchline": "They shore each other up!"
+            },
+            {
+                "for": "Hug A Shed and Take A Picture Day",
+                "setup": "Why did the shed get a promotion?",
+                "punchline": "Because it was good at keeping things together!"
             }
         ]
     },
@@ -88,9 +108,19 @@
         "day": 6,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "International No Diet Day",
+                "setup": "I'm on a sea-food diet.",
+                "punchline": "I see food, and then I eat it!"
+            },
+            {
+                "for": "National Nurses Day",
+                "setup": "Why did the nurse bring a red pen to work?",
+                "punchline": "In case they needed to draw blood!"
+            },
+            {
+                "for": "National Teachers' Day",
+                "setup": "Why did the teacher wear sunglasses?",
+                "punchline": "Because their students were so bright!"
             }
         ]
     },
@@ -98,9 +128,9 @@
         "day": 7,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Tourism Day",
+                "setup": "Why did the globe refuse to travel?",
+                "punchline": "It felt it was already well-rounded!"
             }
         ]
     },
@@ -108,9 +138,9 @@
         "day": 8,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Give Someone A Cupcake Day",
+                "setup": "What did the cupcake say to the muffin?",
+                "punchline": "You bake my day!"
             }
         ]
     },
@@ -118,9 +148,9 @@
         "day": 9,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "Alphabet Magnet Day",
+                "setup": "Why did the magnets get in trouble?",
+                "punchline": "They were always sticking together!"
             }
         ]
     },
@@ -128,9 +158,9 @@
         "day": 10,
         "jokes": [
             {
-                "for": "",
-                "setup": "",
-                "punchline": ""
+                "for": "National Shrimp Day",
+                "setup": "Why don't shrimp share their secrets?",
+                "punchline": "Because they're a little shellfish!"
             }
         ]
     },
